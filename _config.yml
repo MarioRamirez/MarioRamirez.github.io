@@ -12,10 +12,10 @@ color:
   
 # Footer settings
 footer:
-  copyright: Mario Ramírez
+  copyright: Github y Jekyll
   location: Dirección
   social: Redes Sociales
-  credits: Agradecimientos
+  credits: Mentor
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -33,7 +33,7 @@ address:
   - line: Chile
   
 # Credits content
-credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Si quieres saber más acerca de mis aptitudes profesionales puedes consultar con <a href="http://cl.linkedin.com/in/nelsonpatriciojimenez">Nelson Jimenez</a>.'
 
 # Build settings
 markdown: kramdown
