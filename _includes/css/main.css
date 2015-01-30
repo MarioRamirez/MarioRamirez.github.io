@@ -34,6 +34,12 @@ h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -o-hyphens: auto;
+    hyphens: auto;
 }
 
 hr.star-light,
@@ -345,6 +351,12 @@ footer .footer-col {
 footer .footer-below {
     padding: 25px 0;
     background-color: #{{ site.color.secondary-dark }};
+}
+
+.fa-envelope-square, .fa-phone-square{
+    font-size: 1.8em;
+    vertical-align: middle;
+    padding-right: 0.2em;
 }
 
 .btn-social {
