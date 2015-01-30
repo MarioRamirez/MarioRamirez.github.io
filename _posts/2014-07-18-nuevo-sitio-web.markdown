@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Diciembre 2014
 client: Start-Up Chile
 category: Desarrollo Web Frontend
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Al comenzar en <a href="http://www.startupchile.org/">Start-Up Chile</a> colaboré en el desarrollo del <a href="http://www.startupchile.org/">nuevo sitio web</a> de la empresa, mi trabajo estuvo enfocado en mejorar parte del Frontend utilizando HTML5, CSS, Bootstrap y AngularJS.
 
 ---

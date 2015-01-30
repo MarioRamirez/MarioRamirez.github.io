@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Enero 2015
 client: Start-Up Chile
 category: Desarrollo Web Backend
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: A principios de 2015 trabajé en el Backend de <a href="http://dashup.startupchile.org/">DASHUP</a>, sistema interno de <a href="http://dashup.startupchile.org/">Start-Up Chile</a> construido en Ruby on Rails. Algunas de las mejoras que realicé fueron crear una encuesta embebida al perfil de cada startup, agregar validaciones para mejorar la consistencia de los datos y añadir alertas a los usuarios cuando no habían completado su perfil.
 
 ---

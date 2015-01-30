@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Enero 2015
 client: Start-Up Chile
 category: Desarrollo Web Backend
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: A mediados de enero participé en la construcción de <a href="http://scale.startupchile.org/">SCALE</a>, una nueva plataforma de <a href="http://www.startupchile.org/">Start-Up Chile</a> para entregar financiamiento adicional a las startups seleccionadas construido en <strong>Ruby on Rails</strong>. En este proyecto trabajé en la generación del formulario para postular tanto en el Frontend como en el Backend.
 
 ---
