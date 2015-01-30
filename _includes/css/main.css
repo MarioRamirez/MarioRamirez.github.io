@@ -275,6 +275,34 @@ section.success {
     background: #fff;
 }
 
+@media(max-width:768px) {
+    
+    h1.contact_text {
+        font-size: 2em;
+    }
+
+}
+
+@media(max-width:600px) {
+    
+    h1.contact_text {
+        font-size: 1.5em;
+    }
+    p.icon_text{
+        font-size: 1.2em;
+    }
+}
+
+@media(max-width:500px) {
+    
+    h1.contact_text {
+        font-size: 1.3em;
+    }
+    p.icon_text{
+        font-size: 1em;
+    }
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
