@@ -33,7 +33,7 @@ address:
   - line: Chile
   
 # Credits content
-credits: 'Si quieres saber más acerca de mis aptitudes profesionales puedes consultar con <a href="http://cl.linkedin.com/in/nelsonpatriciojimenez">Nelson Jimenez</a>.'
+credits: 'Si quieres saber más acerca de mis aptitudes profesionales puedes consultar con <a href="http://cl.linkedin.com/in/nelsonpatriciojimenez">Nelson Jiménez</a>.'
 
 # Build settings
 markdown: kramdown
