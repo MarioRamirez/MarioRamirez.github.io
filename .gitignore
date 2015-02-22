@@ -2,3 +2,7 @@ _site/
 .sass-cache/
 .ruby-gemset
 .ruby-version
+.DS_Store
+_posts/.DS_Store
+img/.DS_Store
+img/portfolio/.DS_Store
