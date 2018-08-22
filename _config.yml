@@ -9,7 +9,7 @@ color:
   primary: 18bc9c #80B3FF
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
-  
+
 # Footer settings
 footer:
   copyright: Github y Jekyll
@@ -23,15 +23,13 @@ social:
     url: http://www.linkedin.com/in/mramirezm
   - title: github
     url: http://github.com/MarioRamirez
-  - title: twitter
-    url: http://twitter.com/RamirezMarioExe
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Av. Almirante Blanco Encalada 1797
   - line: Santiago - Región Metropolitana
   - line: Chile
-  
+
 # Credits content
 credits: 'Si quieres saber más acerca de mis aptitudes profesionales puedes consultar con <a href="http://cl.linkedin.com/in/nelsonpatriciojimenez">Nelson Jiménez</a>.'
 
